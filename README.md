@@ -8,7 +8,7 @@ View online:
 
 ## Refactor
 
-This is a re-write of my final project from the Grand Circus Front End Web Development bootcamp. The initial version of [PicturePalette](https://github.com/bobmatyas/gc-final-project) was written using [AnguarJS](https://www.angularjs.org). 
+This is a re-write of my final project from the Grand Circus Front End Web Development bootcamp.
 
 This version is re-written in [ReactJS](https://www.reactjs.org) to experience the process of refactoring a project using a legacy framework.
 
